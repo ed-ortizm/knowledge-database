@@ -1,29 +1,11 @@
 {
     "insights": {
-        
-        "summary":{
-            "summary":"",
-            "strong_points":[
-                ""
-            ],
-            "weak_points":[
-                ""
-            ]
-        },
-
+        "summary": {"summary": "", "strong_points": [""], "weak_points": [""]},
         "takeaways": [],
-        
         "ideas": [],
-        
-        "reading_stage": ""
+        "reading_stage": "",
     },
-
-    "material_tags": {
-        "tags": [
-            ""
-        ]
-    },
-    
+    "material_tags": {"tags": [""]},
     "reading_material": {
         "title": "",
         "material_type": "",
@@ -32,10 +14,7 @@
         "short_summary": "",
         "external_summary_path": "",
         "created_at": "",
-        "updated_at": ""
+        "updated_at": "",
     },
-
-    "publishers": {
-        "name": ""
-    }
+    "publishers": {"name": ""},
 }

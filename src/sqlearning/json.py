@@ -1,10 +1,10 @@
 """Utilities to interact with json files"""
 
+
 def save_json_data():
     """Save the filled JSON data to a file"""
 
     pass
-
 
     # json_data = {
     #     "insights": {

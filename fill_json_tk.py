@@ -4,8 +4,7 @@ from tkinter import ttk
 
 from sqlearning.json import save_json_data
 
-if __name__ == '__main__':
-
+if __name__ == "__main__":
     # Main application window
     root = tk.Tk()
     root.title("Fill JSON Template")

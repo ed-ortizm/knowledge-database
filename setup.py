@@ -10,9 +10,7 @@ setup(
     version="0.1.0",
     author="Edgar Ortiz",
     author_email="ed.ortizm@gmail.com",
-    packages=find_packages(
-        where="src", include=["[a-z]*"], exclude=[]
-    ),
+    packages=find_packages(where="src", include=["[a-z]*"], exclude=[]),
     package_dir={"": "src"},
     description=(
         "Populate knowledge database with insights"
